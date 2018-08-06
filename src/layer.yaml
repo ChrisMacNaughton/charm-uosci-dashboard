@@ -1,0 +1,8 @@
+includes:
+ - 'layer:basic'
+ - 'layer:nginx'
+repo: 'https://github.com/ChrisMacNaughton/charm-uosci-dashboard.git'
+options:
+  basic:
+    use_venv: false
+    include_system_packages: true

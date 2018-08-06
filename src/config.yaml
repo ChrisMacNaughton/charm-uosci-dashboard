@@ -1,0 +1,5 @@
+options:
+  jenkins-host:
+    type: string
+    default: 'http://10.245.162.58:8080'
+    description: "What is the host for jenkins"

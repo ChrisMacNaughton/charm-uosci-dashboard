@@ -1,0 +1,11 @@
+name: uosci-dashboard
+summary: Dashboard for Ubuntu Openstack CI
+maintainer: Chris MacNaughton <chris.macnaughton@canonical.com>
+description: |
+  This charm sets up a simple dashboard for UOSCI
+tags:
+  - monitoring
+series:
+  - bionic
+  - xenial
+  - trusty
